@@ -1,0 +1,34 @@
+Name                                              
+--------------------------------------------------
+Touring-3000 Blue, 62                             
+Touring-3000 Yellow, 62                           
+Touring-3000 Blue, 58                             
+Touring-3000 Yellow, 58                           
+Touring-3000 Blue, 54                             
+Touring-3000 Yellow, 54                           
+Touring-3000 Yellow, 50                           
+Touring-3000 Blue, 50                             
+Touring-3000 Blue, 44                             
+Touring-3000 Yellow, 44                           
+Mountain-500 Silver, 52                           
+Mountain-500 Black, 52                            
+Mountain-500 Black, 48                            
+Mountain-500 Silver, 48                           
+Mountain-500 Silver, 44                           
+Mountain-500 Black, 44                            
+Touring-2000 Blue, 60                             
+Mountain-500 Black, 42                            
+Mountain-500 Silver, 42                           
+Touring-2000 Blue, 54                             
+Touring-2000 Blue, 50                             
+Mountain-400-W Silver, 46                         
+Mountain-500 Silver, 40                           
+Mountain-500 Black, 40                            
+Mountain-400-W Silver, 42                         
+Touring-2000 Blue, 46                             
+Mountain-400-W Silver, 40                         
+Mountain-300 Black, 48                            
+Mountain-400-W Silver, 38                         
+Mountain-300 Black, 44                            
+
+(30 rows affected)

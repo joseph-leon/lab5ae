@@ -1,0 +1,102 @@
+Name                                               ListPrice            
+-------------------------------------------------- ---------------------
+Mountain Bike Socks, M                                            9.5000
+Mountain Bike Socks, L                                            9.5000
+LL Road Frame - Red, 44                                         337.2200
+LL Road Frame - Red, 48                                         337.2200
+LL Road Frame - Red, 52                                         337.2200
+LL Road Frame - Red, 58                                         337.2200
+LL Road Frame - Red, 60                                         337.2200
+LL Road Frame - Red, 62                                         337.2200
+ML Road Frame - Red, 44                                         594.8300
+ML Road Frame - Red, 48                                         594.8300
+ML Road Frame - Red, 52                                         594.8300
+ML Road Frame - Red, 58                                         594.8300
+ML Road Frame - Red, 60                                         594.8300
+HL Mountain Frame - Silver, 44                                 1364.5000
+HL Mountain Frame - Silver, 48                                 1364.5000
+HL Mountain Frame - Black, 44                                  1349.6000
+HL Mountain Frame - Black, 48                                  1349.6000
+Road-150 Red, 62                                               3578.2700
+Road-150 Red, 44                                               3578.2700
+Road-150 Red, 48                                               3578.2700
+Road-150 Red, 52                                               3578.2700
+Road-150 Red, 56                                               3578.2700
+Road-450 Red, 58                                               1457.9900
+Road-450 Red, 60                                               1457.9900
+Road-450 Red, 44                                               1457.9900
+Road-450 Red, 48                                               1457.9900
+Road-450 Red, 52                                               1457.9900
+Road-650 Red, 58                                                782.9900
+Road-650 Red, 60                                                782.9900
+Road-650 Red, 62                                                782.9900
+Road-650 Red, 44                                                782.9900
+Road-650 Red, 48                                                782.9900
+Road-650 Red, 52                                                782.9900
+Road-650 Black, 58                                              782.9900
+Road-650 Black, 60                                              782.9900
+Road-650 Black, 62                                              782.9900
+Road-650 Black, 44                                              782.9900
+Road-650 Black, 48                                              782.9900
+Road-650 Black, 52                                              782.9900
+Mountain-100 Silver, 38                                        3399.9900
+Mountain-100 Silver, 42                                        3399.9900
+Mountain-100 Silver, 44                                        3399.9900
+Mountain-100 Silver, 48                                        3399.9900
+Mountain-100 Black, 38                                         3374.9900
+Mountain-100 Black, 42                                         3374.9900
+Mountain-100 Black, 44                                         3374.9900
+Mountain-100 Black, 48                                         3374.9900
+Mountain-300 Black, 38                                         1079.9900
+Mountain-300 Black, 40                                         1079.9900
+Mountain-300 Black, 44                                         1079.9900
+Mountain-300 Black, 48                                         1079.9900
+Road-250 Red, 44                                               2443.3500
+Road-250 Red, 48                                               2443.3500
+Road-250 Red, 52                                               2443.3500
+LL Fork                                                         148.2200
+ML Fork                                                         175.4900
+HL Fork                                                         229.4900
+LL Headset                                                       34.2000
+ML Headset                                                      102.2900
+HL Headset                                                      124.7300
+ML Mountain Frame - Black, 38                                   348.7600
+LL Mountain Front Wheel                                          60.7450
+ML Mountain Front Wheel                                         209.0250
+HL Mountain Front Wheel                                         300.2150
+LL Road Front Wheel                                              85.5650
+ML Road Front Wheel                                             248.3850
+HL Road Front Wheel                                             330.0600
+Touring Front Wheel                                             218.0100
+LL Mountain Rear Wheel                                           87.7450
+ML Mountain Rear Wheel                                          236.0250
+HL Mountain Rear Wheel                                          327.2150
+LL Road Rear Wheel                                              112.5650
+ML Road Rear Wheel                                              275.3850
+HL Road Rear Wheel                                              357.0600
+Touring Rear Wheel                                              245.0100
+ML Mountain Frame - Black, 40                                   348.7600
+ML Mountain Frame - Black, 44                                   348.7600
+ML Mountain Frame - Black, 48                                   348.7600
+Men's Sports Shorts, S                                           59.9900
+Touring-Panniers, Large                                         125.0000
+Cable Lock                                                       25.0000
+Minipump                                                         19.9900
+Mountain Pump                                                    24.9900
+Taillights - Battery-Powered                                     13.9900
+Headlights - Dual-Beam                                           34.9900
+Headlights - Weatherproof                                        44.9900
+Men's Sports Shorts, M                                           59.9900
+Men's Sports Shorts, L                                           59.9900
+Men's Sports Shorts, XL                                          59.9900
+Women's Tights, S                                                74.9900
+Women's Tights, M                                                74.9900
+Women's Tights, L                                                74.9900
+Men's Bib-Shorts, S                                              89.9900
+Men's Bib-Shorts, M                                              89.9900
+Men's Bib-Shorts, L                                              89.9900
+Full-Finger Gloves, S                                            37.9900
+Full-Finger Gloves, M                                            37.9900
+Full-Finger Gloves, L                                            37.9900
+
+(98 rows affected)

@@ -1,0 +1,2 @@
+Msg 156, Level 15, State 1, Server ac56c1e85ea1, Line 1
+Incorrect syntax near the keyword 'BY'.

@@ -1,0 +1,16 @@
+ProductNumber             Name                                              
+------------------------- --------------------------------------------------
+SO-B909-M                 Mountain Bike Socks, M                            
+SH-M897-S                 Men's Sports Shorts, S                            
+SH-M897-M                 Men's Sports Shorts, M                            
+TG-W091-S                 Women's Tights, S                                 
+TG-W091-M                 Women's Tights, M                                 
+GL-H102-S                 Half-Finger Gloves, S                             
+GL-H102-M                 Half-Finger Gloves, M                             
+GL-F110-S                 Full-Finger Gloves, S                             
+GL-F110-M                 Full-Finger Gloves, M                             
+SH-W890-S                 Women's Mountain Shorts, S                        
+SH-W890-M                 Women's Mountain Shorts, M                        
+SO-R809-M                 Racing Socks, M                                   
+
+(12 rows affected)

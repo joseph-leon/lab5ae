@@ -1,0 +1,36 @@
+CompanyName                                                                                                                      SalesOrderID TotalDue             
+-------------------------------------------------------------------------------------------------------------------------------- ------------ ---------------------
+Professional Sales and Service                                                                                                          71782            43962.7901
+Remarkable Bike Store                                                                                                                   71935             7330.8972
+Bulk Discount Store                                                                                                                     71938            98138.2131
+Coalition Bike Company                                                                                                                  71899             2669.3183
+Futuristic Bikes                                                                                                                        71895              272.6468
+Channel Outlet                                                                                                                          71885              608.1766
+Aerobic Exercise Company                                                                                                                71915             2361.6403
+Vigorous Sports Store                                                                                                                   71867             1170.5376
+Thrilling Bike Tours                                                                                                                    71858            15275.1977
+Extreme Riding Supplies                                                                                                                 71796            63686.2708
+Action Bicycle Specialists                                                                                                              71784           119960.8240
+Central Bicycle Specialists                                                                                                             71946               43.0437
+The Bicycle Accessories Company                                                                                                         71923              117.7276
+Riding Cycles                                                                                                                           71797            86222.8072
+Good Toys                                                                                                                               71774              972.7850
+Paints and Solvents Company                                                                                                             71897            14017.9083
+Closest Bicycle Store                                                                                                                   71832            39531.6085
+Many Bikes Store                                                                                                                        71902            81834.9826
+Instruments and Parts Company                                                                                                           71898            70698.9922
+Trailblazing Sports                                                                                                                     71845            45992.3665
+Eastside Department Store                                                                                                               71783            92663.5609
+Sports Products Store                                                                                                                   71863             3673.3249
+Discount Tours                                                                                                                          71920             3293.7761
+Tachometers and Accessories                                                                                                             71831             2228.0566
+Essential Bike Works                                                                                                                    71917               45.1995
+Engineered Bike Systems                                                                                                                 71816             3754.9733
+Transport Bikes                                                                                                                         71856              665.4251
+Metropolitan Bicycle Supply                                                                                                             71936           108597.9536
+West Side Mart                                                                                                                          71776               87.0851
+Thrifty Parts and Sales                                                                                                                 71815             1261.4440
+Sports Store                                                                                                                            71846             2711.4098
+Nearby Cycle Shop                                                                                                                       71780            42452.6519
+
+(32 rows affected)

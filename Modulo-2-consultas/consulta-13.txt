@@ -1,0 +1,14 @@
+Color          
+---------------
+NULL           
+Black          
+Blue           
+Grey           
+Multi          
+Red            
+Silver         
+Silver/Black   
+White          
+Yellow         
+
+(10 rows affected)

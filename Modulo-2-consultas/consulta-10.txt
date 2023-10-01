@@ -1,0 +1,14 @@
+Name                                               ListPrice            
+-------------------------------------------------- ---------------------
+Front Derailleur                                                 91.4900
+Full-Finger Gloves, L                                            37.9900
+Full-Finger Gloves, M                                            37.9900
+Full-Finger Gloves, S                                            37.9900
+Half-Finger Gloves, L                                            24.4900
+Half-Finger Gloves, M                                            24.4900
+Half-Finger Gloves, S                                            24.4900
+Headlights - Dual-Beam                                           34.9900
+Headlights - Weatherproof                                        44.9900
+Hitch Rack - 4-Bike                                             120.0000
+
+(10 rows affected)

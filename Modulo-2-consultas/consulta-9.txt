@@ -1,0 +1,14 @@
+Name                                               ListPrice            
+-------------------------------------------------- ---------------------
+All-Purpose Bike Stand                                          159.0000
+AWC Logo Cap                                                      8.9900
+Bike Wash - Dissolver                                             7.9500
+Cable Lock                                                       25.0000
+Chain                                                            20.2400
+Classic Vest, L                                                  63.5000
+Classic Vest, M                                                  63.5000
+Classic Vest, S                                                  63.5000
+Fender Set - Mountain                                            21.9800
+Front Brakes                                                    106.5000
+
+(10 rows affected)

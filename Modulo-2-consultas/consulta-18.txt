@@ -1,0 +1,15 @@
+Name                                               ListPrice            
+-------------------------------------------------- ---------------------
+HL Road Frame - Black, 44                                      1431.5000
+HL Road Frame - Black, 48                                      1431.5000
+HL Road Frame - Black, 52                                      1431.5000
+HL Road Frame - Black, 58                                      1431.5000
+HL Road Frame - Black, 62                                      1431.5000
+HL Road Frame - Red, 44                                        1431.5000
+HL Road Frame - Red, 48                                        1431.5000
+HL Road Frame - Red, 52                                        1431.5000
+HL Road Frame - Red, 56                                        1431.5000
+HL Road Frame - Red, 58                                        1431.5000
+HL Road Frame - Red, 62                                        1431.5000
+
+(11 rows affected)

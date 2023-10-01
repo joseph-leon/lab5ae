@@ -1,0 +1,7 @@
+Name                                               Color           Size 
+-------------------------------------------------- --------------- -----
+Classic Vest, S                                    Blue            S    
+Classic Vest, M                                    Blue            M    
+Classic Vest, L                                    Blue            L    
+
+(3 rows affected)
